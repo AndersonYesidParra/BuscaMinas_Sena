@@ -1,0 +1,12 @@
+C:\Users\parra\source\repos\BuscaMinas\BuscaMinas\bin\Debug\BuscaMinas.exe.config
+C:\Users\parra\source\repos\BuscaMinas\BuscaMinas\bin\Debug\BuscaMinas.exe
+C:\Users\parra\source\repos\BuscaMinas\BuscaMinas\bin\Debug\BuscaMinas.pdb
+C:\Users\parra\source\repos\BuscaMinas\BuscaMinas\bin\Debug\BuscaMinas.xml
+C:\Users\parra\source\repos\BuscaMinas\BuscaMinas\obj\Debug\BuscaMinas.vbprojAssemblyReference.cache
+C:\Users\parra\source\repos\BuscaMinas\BuscaMinas\obj\Debug\BuscaMinas.Form1.resources
+C:\Users\parra\source\repos\BuscaMinas\BuscaMinas\obj\Debug\BuscaMinas.Resources.resources
+C:\Users\parra\source\repos\BuscaMinas\BuscaMinas\obj\Debug\BuscaMinas.vbproj.GenerateResource.cache
+C:\Users\parra\source\repos\BuscaMinas\BuscaMinas\obj\Debug\BuscaMinas.vbproj.CoreCompileInputs.cache
+C:\Users\parra\source\repos\BuscaMinas\BuscaMinas\obj\Debug\BuscaMinas.exe
+C:\Users\parra\source\repos\BuscaMinas\BuscaMinas\obj\Debug\BuscaMinas.xml
+C:\Users\parra\source\repos\BuscaMinas\BuscaMinas\obj\Debug\BuscaMinas.pdb
